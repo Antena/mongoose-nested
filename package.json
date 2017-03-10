@@ -1,0 +1,34 @@
+{
+  "name": "antena-mongoose-nested",
+  "version": "0.0.0",
+  "description": "Mongoose Nested Schema",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^0.9.0",
+    "mongoose": ">=2.7.0"
+  }, 
+  "keywords": [
+    "mongoose",
+    "nested",
+    "schema"
+  ],
+  "author": {
+    "name": "Antena"
+  },
+  "maintainers": [
+    {
+      "name": "denise",
+      "email": "denise@antena.co"
+    },
+    {
+      "name": "belbo",
+      "email": "gonzalo@antena.co"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antena/mongoose-nested.git"
+  },
+  "readmeFilename": "README.md"
+}

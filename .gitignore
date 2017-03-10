@@ -1,0 +1,35 @@
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# npm and bower installs
+node_modules
+npm-debug.log
+
+# build and temp folders
+dist/
+.tmp/
+tmp/
+test/result/
+test/visual/screenshots/current
+
+# IntelliJ files
+*.iml
+.idea
+
+# ng-doc files
+docs/
+font/
+css/
+grunt-scripts/
+js/
+partials/
+
