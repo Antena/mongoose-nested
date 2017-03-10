@@ -1,12 +1,12 @@
 {
   "name": "antena-mongoose-nested",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Mongoose Nested Schema",
   "main": "index.js",
   "dependencies": {
     "async": "^0.9.0",
     "mongoose": ">=2.7.0"
-  }, 
+  },
   "keywords": [
     "mongoose",
     "nested",
